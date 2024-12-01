@@ -1,0 +1,7 @@
+<config>
+    <user>john_doe</user>
+    <hostname>my_computer</hostname>
+    <filesystem_path>filesystem.tar</filesystem_path>
+    <log_file>log.xml</log_file>
+    <startup_script>startup.sh</startup_script>
+</config>

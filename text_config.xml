@@ -1,0 +1,7 @@
+<config>
+    <user>testuser</user>
+    <hostname>testhost</hostname>
+    <filesystem_path>test_filesystem.tar</filesystem_path>
+    <log_file>test_log.xml</log_file>
+    <startup_script></startup_script>
+</config>
